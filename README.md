@@ -1,4 +1,4 @@
-##E-Commerce Website Database Implementation
+**E-Commerce Website Database Implementation**
 
 
 This project involves designing and implementing a relational database for an e-commerce platform. The system manages various entities, including users, products, sellers, orders, payments, reviews, and tracking.
